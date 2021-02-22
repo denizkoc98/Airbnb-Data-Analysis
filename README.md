@@ -1,4 +1,4 @@
-# projects
+# Airbnb Data Analysis Project
 We will be studying New York City Airbnb Open Data which gives us information about the number of rental houses that one host owns,
 the price of houses per night and where they are located. The main focus of this project is to compare the rate of success of different hosts in terms of how wisely
 they choose their houses based on the number, price and location. We will be observing the relationship between how many houses each host owns and the distribution of renting rate.
